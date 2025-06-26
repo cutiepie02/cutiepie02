@@ -1,10 +1,10 @@
 # 💫 About Me:
-      👋  Hii I'm @Muskaan<br>
-      🔭 I’m currently a student<br>
-      👯 I’m looking to collaborate on<br>
+      👋  Hii I'm @Muskaan
+      🔭 I’m currently a student
+      👯 I’m looking to collaborate on
       🤝 I’m looking for help with<br>
-      🌱 I’m currently learning AI and Machine learning<br>
-      💬 Ask me about my project<br>
+      🌱 I’m currently learning AI and Machine learning
+      💬 Ask me about my project
       ⚡ Fun fact............
 
 
