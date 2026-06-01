@@ -46,13 +46,21 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cutiepie02&theme=radical" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cutiepie02&theme=radical&show_icons=true" alt="Muskaan's GitHub Stats" />
 </p>
-![](https://github-readme-stats.vercel.app/api?username=cutiepie02&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=cutiepie02&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cutiepie02&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cutiepie02&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutiepie02&theme=radical&layout=compact" alt="Top Langs" />
+</p>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cutiepie02&theme=neon&no-frame=true&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cutiepie02&theme=radical&column=4" alt="GitHub Trophies" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
