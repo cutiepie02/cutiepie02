@@ -38,6 +38,15 @@
 [![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=flat&logo=Apache&logoColor=white)](https://httpd.apache.org/)
 
 # 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cutiepie02&show_icons=true&theme=radical" alt="Muskaan's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutiepie02&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cutiepie02&theme=radical" alt="GitHub Streak" />
+</p>
 ![](https://github-readme-stats.vercel.app/api?username=cutiepie02&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=cutiepie02&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cutiepie02&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
