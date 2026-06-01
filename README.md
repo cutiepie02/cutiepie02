@@ -46,21 +46,9 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cutiepie02&theme=radical" alt="GitHub Streak" />
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cutiepie02&theme=radical&show_icons=true" alt="Muskaan's GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cutiepie02&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutiepie02&theme=radical&layout=compact" alt="Top Langs" />
-</p>
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cutiepie02&theme=radical&column=4" alt="GitHub Trophies" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=cutiepie02&theme=radical&column=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
